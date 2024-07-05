@@ -11,7 +11,7 @@
 
 - 🔭 &nbsp; I’m currently working on bridging the gap in Life-Science sector and Artificial Intelligence project.
 - 🎓 &nbsp; Studying Machine Learning and Artificial Intelligence at Christ University.
-- 👯 I’m looking to collaborate on **User-Oriented Projects**
+- 👯 &nbsp; I’m looking to collaborate on **User-Oriented Projects**
 - 🌱 &nbsp; I’m currently learning Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobby.
 
